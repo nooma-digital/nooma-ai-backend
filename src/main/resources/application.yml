@@ -1,0 +1,9 @@
+﻿spring:
+  application:
+    name: nooma-ai-backend
+  datasource:
+    url: jdbc:postgresql://localhost:5432/nooma
+    username: nooma
+    password: nooma123
+server:
+  port: 8080
